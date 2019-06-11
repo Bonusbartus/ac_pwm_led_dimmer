@@ -1,0 +1,61 @@
+06-11 23:19:12 archive_project.action_archive_project 188:Starting 3D model archiving
+06-11 23:19:12 archive_project.archive_project 387:Starting to archive 3D models
+06-11 23:19:12 archive_project.archive_project 399:KISYS3DMOD path: C:\Projects\HW_SW_development\kicad\libraries\kicad-packages3D
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/Relay_1-Form-B_Schrack-RYII_RM5mm.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/Relay_1-Form-B_Schrack-RYII_RM5mm.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/PinSocket_1x08_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/DIP-6_W7.62mm.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/DIP-6_W7.62mm.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/RV_Disc_D7mm_W4.5mm_P5mm.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/RV_Disc_D7mm_W4.5mm_P5mm.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/SOT-23.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/SOT-23.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/TO-220-3_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/TO-220-3_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/Converter_ACDC_HiLink_HLK-PMxx.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/Converter_ACDC_HiLink_HLK-PMxx.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/PinHeader_1x02_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/PinHeader_1x02_P2.54mm_Vertical.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/SOT-23.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/SOT-23.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/D_DO-201_P5.08mm_Vertical_KathodeUp.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/D_DO-201_P5.08mm_Vertical_KathodeUp.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/D_SMA.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/D_SMA.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/Diode_Bridge_Round_D9.8mm.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/Diode_Bridge_Round_D9.8mm.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/C_1210_3225Metric.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/C_1210_3225Metric.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/C_1210_3225Metric.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/C_1210_3225Metric.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/CP_Radial_D6.3mm_P2.50mm.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/CP_Radial_D6.3mm_P2.50mm.wrl
+06-11 23:19:12 archive_project.archive_project 426:Trying to copy: ${KIPRJMOD}/shapes3D/C_Rect_L26.5mm_W11.5mm_P22.50mm_MKS4.wrl
+06-11 23:19:12 archive_project.archive_project 479:Remapping: ${KIPRJMOD}/shapes3D/C_Rect_L26.5mm_W11.5mm_P22.50mm_MKS4.wrl
