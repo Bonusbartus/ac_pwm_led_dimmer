@@ -1,4 +1,4 @@
-update=11-6-2019 23:11:43
+update=22-6-2019 00:12:19
 version=1
 last_client=kicad
 [general]
@@ -251,7 +251,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=HV-HP
-Clearance=0.6
+Clearance=0.4
 TrackWidth=1.25
 ViaDiameter=1.2
 ViaDrill=0.6
@@ -262,7 +262,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
 Name=HV-LP
-Clearance=0.6
+Clearance=0.4
 TrackWidth=0.635
 ViaDiameter=0.8
 ViaDrill=0.4

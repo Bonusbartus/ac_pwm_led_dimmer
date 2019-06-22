@@ -37,17 +37,6 @@ F 3 "http://www.vishay.com/docs/91054/91054.pdf" H 8750 1300 50  0001 L CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L archive:Diode_Bridge_W06G D1
-U 1 1 5CEDA05B
-P 3050 1550
-F 0 "D1" H 3394 1596 50  0000 L CNN
-F 1 "W06G" H 3394 1505 50  0000 L CNN
-F 2 "Diode_THT:Diode_Bridge_Round_D9.8mm" H 3200 1675 50  0001 L CNN
-F 3 "https://www.vishay.com/docs/88769/woo5g.pdf" H 3050 1550 50  0001 C CNN
-	1    3050 1550
-	1    0    0    -1  
-$EndComp
-$Comp
 L archive:Diode_1N53xxB D3
 U 1 1 5CEDC892
 P 7350 2350
@@ -63,7 +52,7 @@ L archive:Isolator_4N35 U1
 U 1 1 5CEDD0C1
 P 2400 2850
 F 0 "U1" H 2400 3175 50  0000 C CNN
-F 1 "4N35" H 2400 3084 50  0000 C CNN
+F 1 "4N35 (M by ON Semi )" H 2400 3084 50  0000 C CNN
 F 2 "Package_DIP:DIP-6_W7.62mm" H 2200 2650 50  0001 L CIN
 F 3 "https://www.vishay.com/docs/81181/4n35.pdf" H 2400 2850 50  0001 L CNN
 	1    2400 2850
@@ -448,13 +437,13 @@ MAINS-DC-HP_+
 $Comp
 L archive:Connector_Screw_Terminal_01x02 J4
 U 1 1 5CF37499
-P 6600 4200
-F 0 "J4" H 6680 4192 50  0000 L CNN
-F 1 "Switch" H 6680 4101 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" H 6600 4200 50  0001 C CNN
-F 3 "~" H 6600 4200 50  0001 C CNN
-	1    6600 4200
-	1    0    0    -1  
+P 6600 4300
+F 0 "J4" H 6680 4292 50  0000 L CNN
+F 1 "Switch" H 6680 4201 50  0000 L CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" H 6600 4300 50  0001 C CNN
+F 3 "~" H 6600 4300 50  0001 C CNN
+	1    6600 4300
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	5200 5350 6250 5350
@@ -868,4 +857,27 @@ Wire Wire Line
 	1300 2950 2100 2950
 Wire Wire Line
 	9650 4200 9650 4600
+$Comp
+L archive:power_+3V3 #PWR01
+U 1 1 5D0142FF
+P 5300 3700
+F 0 "#PWR01" H 5300 3550 50  0001 C CNN
+F 1 "+3V3" H 5315 3873 50  0000 C CNN
+F 2 "" H 5300 3700 50  0001 C CNN
+F 3 "" H 5300 3700 50  0001 C CNN
+	1    5300 3700
+	1    0    0    -1  
+$EndComp
+Connection ~ 5300 3700
+$Comp
+L archive:Diode_Bridge_DF10M D1
+U 1 1 5D0D2E59
+P 3050 1550
+F 0 "D1" H 3394 1596 50  0000 L CNN
+F 1 "DF10M" H 3394 1505 50  0000 L CNN
+F 2 "Diode_THT:Diode_Bridge_DIP-4_W7.62mm_P5.08mm" H 3200 1675 50  0001 L CNN
+F 3 "http://www.vishay.com/docs/88571/dfm.pdf" H 3050 1550 50  0001 C CNN
+	1    3050 1550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
